@@ -10,8 +10,9 @@ namespace prosta_coder
 
 
             string name = string.Empty;
+            int hfs = 2112;
+            Console.WriteLine(hfs);
 
-            string namesasfn = "nfsaklgnask;gnb";
         }
     }
 }
